@@ -27,3 +27,8 @@ This project analyzes hotel booking data using Power BI to uncover insights rela
 
 ## Business Impact
 The dashboard helps hotel stakeholders monitor performance, identify revenue opportunities, and make data-driven decisions.
+## Files Included
+
+- HotelBooking_project.pbix : Power BI Dashboard File
+- Hotel-Booking.xlsx : Source Dataset
+- hotel-dashboard-overview.png : Dashboard Screenshot
