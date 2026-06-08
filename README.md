@@ -22,5 +22,8 @@ This project analyzes hotel booking data using Power BI to uncover insights rela
 - Cancellation rate exceeded 37%, highlighting revenue leakage.
 - Weekday revenue outperformed weekend revenue.
 
+## Dashboard Preview
+![Hotel Dashboard](hotel-dashboard-overview.png)
+
 ## Business Impact
 The dashboard helps hotel stakeholders monitor performance, identify revenue opportunities, and make data-driven decisions.
